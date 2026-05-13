@@ -7,5 +7,5 @@ This plugin initializes [Starship](https://starship.rs).
 Ensure Starship is available on your system path, then add the following to `.zsh_plugins.txt`:
 
 ```
-celsiusnarhwal/zsh-plugins path:mise
+celsiusnarhwal/zsh-plugins path:starship
 ```
