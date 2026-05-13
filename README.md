@@ -1,4 +1,4 @@
-This repository contains [Zsh](https://en.wikipedia.org/wiki/Z_shell) plugins that I use with [Antidote](https://en.wikipedia.org/wiki/Z_shell).
+This repository contains [Zsh](https://en.wikipedia.org/wiki/Z_shell) plugins that I use with [Antidote](https://getantidote.sh).
 You're welcome to use them if you like, but they aren't really intended for public consumption, so
 they could change or even disappear at any time.
 
